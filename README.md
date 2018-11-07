@@ -1,7 +1,7 @@
 # code-spitz
 ### Code Spitz Study Repository
 
-ref. `https://www.bsidesoft.com/7222?fbclid=IwAR3z4N6vVFoFnzuAWmeubG5XgJ8loMVt-LlcZdJRKehM8PmHy2dOSDdq6mk`
+ref. [https://www.bsidesoft.com/7222?fbclid=IwAR3z4N6vVFoFnzuAWmeubG5XgJ8loMVt-LlcZdJRKehM8PmHy2dOSDdq6mk](https://www.bsidesoft.com/7222?fbclid=IwAR3z4N6vVFoFnzuAWmeubG5XgJ8loMVt-LlcZdJRKehM8PmHy2dOSDdq6mk)
 
 **CodeSpitz 3기 – 디자인패턴과 뷰패턴 Repository ( 11월 7일 ~ 12월 12일, 6주 )** 
 
