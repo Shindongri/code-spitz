@@ -11,4 +11,4 @@ ref. [https://www.bsidesoft.com/7222?fbclid=IwAR3z4N6vVFoFnzuAWmeubG5XgJ8loMVt-L
 
 3. 함수와 제어
 
-4. 디자인 패턴과 뷰 패턴
+4. 디자인 패턴과 뷰 패턴  
